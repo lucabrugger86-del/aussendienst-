@@ -1,0 +1,33 @@
+{
+ "name": "Wechselrechner",
+ "short_name": "Rechner",
+ "id": "wechselrechner-app",
+ "start_url": "./",
+ "scope": "./",
+ "lang": "de",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#F6F4F7",
+ "theme_color": "#E20074",
+ "description": "Was zahlt der Kunde über 24 Monate, wenn er wechselt – mit Aktion und Gutschriften.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

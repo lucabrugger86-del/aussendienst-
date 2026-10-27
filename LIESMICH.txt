@@ -1,0 +1,15 @@
+Wechselrechner - installierbare Fassung
+
+So kommt die App aufs Handy:
+1. Alle Dateien aus diesem Ordner auf eine Webseite mit https hochladen
+   (zum Beispiel GitHub Pages oder eigener Webspace).
+2. Die Adresse auf dem Handy im Browser oeffnen.
+3. iPhone: Teilen > Zum Home-Bildschirm.  Android: Menue > App installieren.
+Danach laeuft sie auch ohne Netz.
+
+Ohne Webseite geht auch die Einzeldatei Wechselrechner.html:
+im Browser oeffnen, funktioniert offline. Auf manchen Handys speichert der
+Browser dabei nichts. Dann steht oben "Wird nicht gespeichert".
+
+Tarife und Aktionen sind der Stand Oktober 2026. Bitte im Bereich Tarife
+mit der aktuellen Preisliste abgleichen.
